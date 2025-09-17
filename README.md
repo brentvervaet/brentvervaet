@@ -4,12 +4,7 @@
 Crafting seamless digital experiences across platforms.
 
 **Tech Stack:**  
-- **Programming Languages:** Java, JavaScript (JS), TypeScript (TS), Python, C#, Swift, SQL, HTML, CSS  
-- **Frontend:** React, Blazor, Tailwind, SwiftUI  
-- **Backend:** Node.js, Spring, .NET  
-- **Databases:** NoSQL, SQL  
-- **Tools & Frameworks:** Git  
-- **UI/UX:** UI/UX Design
+- Java | React | JavaScript | Spring | Swift
 
 ---
 
