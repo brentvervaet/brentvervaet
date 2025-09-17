@@ -50,5 +50,3 @@
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=brentvervaet&show_icons=true&theme=tokyonight&locale=en" alt="brentvervaet" />
 </p>
-
-<img src="https://raw.githubusercontent.com/brentvervaet/brentvervaet/output/snake.svg" alt="Snake animation" />
