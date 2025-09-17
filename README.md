@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brent</h1>
 <h3 align="center">A full-stack developer focused on creating beautiful and functional web and mobile experiences form Belgium.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brentvervaet" alt="brentvervaet" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brentvervaet&label=Profile%20views&color=0e75b6&style=flat" alt="brentvervaet" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://brentvervaet-dev.vercel.app](https://brentvervaet-dev.vercel.app)
 
@@ -18,3 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brentvervaet&show_icons=true&locale=en&layout=compact" alt="brentvervaet" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brentvervaet&show_icons=true&locale=en" alt="brentvervaet" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brentvervaet&" alt="brentvervaet" /></p>
