@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Brent</h1>
 <h3 align="center">A full-stack developer focused on creating beautiful and functional web and mobile experiences form Belgium.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brentvervaet&label=Profile%20views&color=0e75b6&style=flat" alt="brentvervaet" /> </p>
+- 🌱 I’m currently learning **C# & .NET**
 
 - 👨‍💻 All of my projects are available at [https://brentvervaet-dev.vercel.app](https://brentvervaet-dev.vercel.app)
 
 - 📫 How to reach me **brent.vervaet@icloud.com**
+
+- ⚡ Fun fact **I play bass**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brentvervaet&show_icons=true&locale=en&layout=compact" alt="brentvervaet" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brentvervaet&show_icons=true&locale=en" alt="brentvervaet" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brentvervaet&" alt="brentvervaet" /></p>
