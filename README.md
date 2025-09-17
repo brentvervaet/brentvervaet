@@ -44,6 +44,6 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brentvervaet&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="brentvervaet" /></p>
+ ![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=brentvervaet&show_icons=true&theme=dark&locale=en&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brentvervaet&show_icons=true&theme=tokyonight&locale=en" alt="brentvervaet" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=brentvervaet&show_icons=true&theme=dark&locale=en)
