@@ -13,7 +13,6 @@
  <a href="https://brentvervaet-dev.vercel.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Website-brentvervaet.dev-0ea5e9?style=flat-square&logo=vercel&logoColor=white" alt="Website"/></a>
  <a href="mailto:brent.vervaet@icloud.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Email-icloud.com-64748b?style=flat-square&logo=apple&logoColor=white" alt="Email"/></a>
  <a href="https://linkedin.com/in/brentvervaet" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Profile-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
- <a href="https://instagram.com/brentiedebentley" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-@brentiedebentley-e1306c?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 ---
