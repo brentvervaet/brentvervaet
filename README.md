@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **<brent.vervaet@icloud.com>**
 
-- ⚡ Fun fact **I play bass 🎸** and you can find me on the **golf 🏌️‍♂️** course
+- ⚡ Fun fact **I play bass 🎸** and you can find me on the **golf** course 🏌️‍♂️ !
 
 <p align="center">
  <a href="https://brentvervaet-dev.vercel.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Website-brentvervaet.dev-0ea5e9?style=flat-square&logo=vercel&logoColor=white" alt="Website"/></a>
